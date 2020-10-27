@@ -20,11 +20,11 @@
           "s3SchemaVersion":"1.0",
           "configurationId":"Video Upload",
           "bucket":{
-            "name":"serverless-video-upload",
+            "name":"zzid-video-upload",
             "ownerIdentity":{
               "principalId":"A3MCB9FEJCFJSY"
             },
-            "arn":"arn:aws:s3:::serverless-video-upload"
+            "arn":"arn:aws:s3:::zzid-video-upload"
           },
           "object":{
             "key":"my video.mp4",
