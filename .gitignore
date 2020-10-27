@@ -1,3 +1,4 @@
 24-hour-video/node_modules
 transcode-video/node_modules
 user-profile/node_modules
+.DS_Store
